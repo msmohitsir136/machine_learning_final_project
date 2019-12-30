@@ -2,7 +2,9 @@
 title: "Are you exercising correctly? Qualitative assessment of weight lifting exercises"
 author: "Mohit Singh"
 date: "30/12/2019"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
